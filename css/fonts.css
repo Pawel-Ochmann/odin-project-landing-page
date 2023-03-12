@@ -1,7 +1,8 @@
 :root {
     --font-hero-main: 900 48px 'Roboto', sans-serif ;
     --font-header-link:18px 'Roboto', sans-serif ;
-    --font-header-logo-text:24px 'Roboto', sans-serif ;
+    --font-header-logo-text:bold 24px 'Roboto', sans-serif ;
     --font-information-header-text:900 36px 'Roboto', sans-serif ;
     --font-quote-text:lighter italic 36px 'Roboto', sans-serif;
+    --font-button:bold 18px 'Roboto', sans-serif ;
 }
